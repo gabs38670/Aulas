@@ -1,0 +1,19 @@
+#texto{
+    color: darkseagreen;
+    padding: 10px 30px;
+    margin: 15px 15px;
+}
+#ale{
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 150px;
+    height: 90px;
+    padding: 30px 10px;
+    
+}
+.tro{
+    font-size: 25px;
+    font-family: fantasy;
+    color: blue;
+    
+}
